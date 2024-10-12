@@ -1,1 +1,1 @@
-web: uvicorn items:app --host 127.0.0.1 --port --reload
+web: uvicorn items:app --port --host 127.0.0.1 
